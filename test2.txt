@@ -1,3 +1,4 @@
 Understanding the Git Workflow!
 Now making a small change to see the process.
 Making changes for revert and reset
+Now learning branching
